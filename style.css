@@ -51,3 +51,7 @@ body{
 #blue-square{
     background-color: blue;
 }
+
+.flash{
+    background-color: white !important;
+}
